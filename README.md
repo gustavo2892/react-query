@@ -40,5 +40,5 @@ Após baixar o projeto, você pode abrir com seu editor de código preferido. Si
 - Na raiz do projeto execute `docker compose up`.
 - Execute `yarn` para instalar as dependências.
 - Execute `yarn build` para contruir a aplicação.
-- Inicie o servidor com `yarn start`.
+- Inicie o servidor de desenvolvimento com `yarn dev`.
 - Acesse `http://localhost:3000` no navegador para ver o projeto.
